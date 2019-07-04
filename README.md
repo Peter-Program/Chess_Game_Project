@@ -1,6 +1,6 @@
 # Chess-Game-Project
-To do
-Description
-Why
-What I did
-What I would change
+<p>To do</p>
+<p>Description</p>
+<p>Why</p>
+<p>What I did</p>
+<p>What I would change</p>
